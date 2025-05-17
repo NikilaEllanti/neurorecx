@@ -1,0 +1,16 @@
+streamlit
+torch
+torchvision
+torchaudio
+transformers
+datasets
+sentence-transformers
+polars
+onnxruntime
+scikit-learn
+dgl
+flwr
+openai
+requests
+resampy
+soundfile
