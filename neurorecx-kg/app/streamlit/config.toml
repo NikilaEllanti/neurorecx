@@ -1,0 +1,10 @@
+[server]
+headless = true
+enableCORS = false
+
+[runner]
+magicEnabled = false
+fastReruns = false
+
+[watcher]
+type = "none"
